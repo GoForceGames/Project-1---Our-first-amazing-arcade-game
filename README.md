@@ -30,7 +30,13 @@
 
 ## Gameplay Video
 
-![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Provisional Video 
 
-##Last Release 
+https://github.com/GoForceGames/panicbomber/assets/135045767/05987768-4e7d-4519-985e-b043296b305c
+
+## Last Release 
+
 Link to download the latest version of the game: [Download](https://github.com/GoForce-Games/Projecte-1/releases/tag/v0.5)
+
+
+
