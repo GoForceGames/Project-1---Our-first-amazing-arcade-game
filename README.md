@@ -1,9 +1,4 @@
-<
-body {
-  background-color: black;
-  }
->
-<link rel="stylesheet" type="text/css" href="path/to/custom.css">
+<body {background-color: black;}> <link rel="stylesheet" type="text/css" href="path/to/custom.css">
 
 
 # GoForce Games
