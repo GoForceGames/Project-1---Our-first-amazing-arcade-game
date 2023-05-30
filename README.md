@@ -1,11 +1,12 @@
- <link rel="stylesheet" type="text/css" href="path/to/custom.css"> <body {background-color: black;}>
 
 # GoForce Games
+![](https://github.com/GoForceGames/panicbomber/assets/135045767/9eb2a4f2-b088-4cfe-9a69-113e00f0da99)
 ## Project 1 - My first amazing arcade game
 
 ## **Bomberman Panic Bomber from NeoGeo | Produced by Goforce Games**
 
 ## **Contributors**
+
 * Roger Puchol Celma
 
   [Github Account](https://github.com/Ropuce)
@@ -30,9 +31,7 @@
 
 ## Gameplay Video
 
-Provisional Video 
 
-https://github.com/GoForceGames/panicbomber/assets/135045767/05987768-4e7d-4519-985e-b043296b305c
 
 ## Last Release 
 
