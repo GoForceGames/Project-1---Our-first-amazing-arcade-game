@@ -27,3 +27,10 @@
   [Github Account](https://github.com/HentSenp)
 
 ![Group photo](https://user-images.githubusercontent.com/117993994/222914726-9e7c26ed-b7f6-4290-9ac0-73f24d94d440.png)
+
+## Gameplay Video
+
+![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+##Last Release 
+Link to download the latest version of the game: [Download](https://github.com/GoForce-Games/Projecte-1/releases/tag/v0.5)
