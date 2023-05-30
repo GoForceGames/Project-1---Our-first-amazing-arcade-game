@@ -1,5 +1,4 @@
-<body {background-color: black;}> <link rel="stylesheet" type="text/css" href="path/to/custom.css">
-
+ <link rel="stylesheet" type="text/css" href="path/to/custom.css"> <body {background-color: black;}>
 
 # GoForce Games
 ## Project 1 - My first amazing arcade game
