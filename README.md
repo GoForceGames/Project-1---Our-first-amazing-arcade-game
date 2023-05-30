@@ -1,7 +1,7 @@
 
 # GoForce Games
 ![](https://github.com/GoForceGames/panicbomber/assets/135045767/9eb2a4f2-b088-4cfe-9a69-113e00f0da99)
-## Project 1 - My first amazing arcade game
+
 
 ## **Bomberman Panic Bomber from NeoGeo | Produced by Goforce Games**
 
