@@ -1,6 +1,8 @@
+
 body {
   background-color: black;
 }
+<link rel="stylesheet" type="text/css" href="path/to/custom.css">
 
 # GoForce Games
 ## Project 1 - My first amazing arcade game
