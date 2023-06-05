@@ -31,7 +31,7 @@
 
 ## Gameplay Video
 
-[![Vista previa del video](https://www.youtube.com/watch?v=Yhkm3mUeZbE)](https://www.youtube.com/watch?v=Yhkm3mUeZbE)
+[![Vista previa del video](https://img.youtube.com/vi/Yhkm3mUeZbE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yhkm3mUeZbE)
 
 ## Last Release 
 
