@@ -31,11 +31,16 @@
 
 ## Gameplay Video
 
+https://github.com/GoForceGames/Project-1---Our-first-amazing-arcade-game/assets/135045767/c13702e6-456e-450c-9069-1e08f53f18bb
 
 
 ## Last Release 
 
-Link to download the latest version of the game: [Download](https://github.com/GoForce-Games/Projecte-1/releases/tag/v0.5)
+Link to download the latest version of the game: [Download](https://github.com/GoForce-Games/Projecte-1/releases/tag/v1.0)
+
+
+
+
 
 
 
