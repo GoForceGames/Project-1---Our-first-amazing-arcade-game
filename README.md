@@ -31,8 +31,7 @@
 
 ## Gameplay Video
 
-
-[![Vista previa del video](![presentation](https://github.com/GoForceGames/Project-1---Our-first-amazing-arcade-game/assets/135045767/dc667d4a-8553-44ab-841f-e2a69b933a8c))]((https://www.youtube.com/watch?v=Yhkm3mUeZbE))
+[![Vista previa del video](https://www.youtube.com/watch?v=Yhkm3mUeZbE)](https://www.youtube.com/watch?v=Yhkm3mUeZbE)
 
 ## Last Release 
 
